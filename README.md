@@ -93,17 +93,7 @@ Linear Regression achieved an R² score of approximately **0.6967** on the test 
 
 The Streamlit public link will be added here after deployment.
 
-## 👩‍💻 Author
-
-Data Science Student
-```
-
-After pasting, press **Ctrl + S**.
-
-**Don't put the Streamlit link yet.** We'll add the actual public link after deployment.
-
-Once you've created and saved `README.md`, tell me **“created”** and I'll give you the next step.
 
 
-##streamlit link
+## streamlit link
 https://housepricepred-kttkhqpykcxw2blru7jtsy.streamlit.app/
