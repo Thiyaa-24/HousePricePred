@@ -103,3 +103,7 @@ After pasting, press **Ctrl + S**.
 **Don't put the Streamlit link yet.** We'll add the actual public link after deployment.
 
 Once you've created and saved `README.md`, tell me **“created”** and I'll give you the next step.
+
+
+##streamlit link
+https://housepricepred-kttkhqpykcxw2blru7jtsy.streamlit.app/
